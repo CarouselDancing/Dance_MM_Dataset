@@ -1,6 +1,10 @@
 # Dance_MM_Dataset
 Contains movement data for motion-matching dance locomotion.
 
+# License
+
+All motion-captured data in this repository is owned by and should be credited to Emmi Mikkilä and Jérémy Gaudibert.   
+
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 This work is licensed under a
